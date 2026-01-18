@@ -1,0 +1,16 @@
+{
+  "name": "discord-n8n-bot",
+  "version": "1.0.0",
+  "description": "Discord bot that forwards messages to n8n",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "axios": "^1.6.5"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
